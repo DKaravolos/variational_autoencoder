@@ -7,3 +7,6 @@ Containing the code for the model in a class results in a more plug&play experie
 
 This repo includes an adapted version of the VAE example for MNIST, so you can see the usage. I adapted as little from this example as possible for easy comparison.
 The original example can be found here: https://github.com/fchollet/keras/blob/master/examples/variational_autoencoder.py
+
+Cheers,
+Daniel
